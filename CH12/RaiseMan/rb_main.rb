@@ -1,8 +1,8 @@
 #
 # rb_main.rb
-# RandomApp
+# RaiseMan
 #
-# Created by daniellopes on 09/04/10.
+# Created by daniellopes on 10/04/10.
 # Copyright area criacoes 2010. All rights reserved.
 #
 

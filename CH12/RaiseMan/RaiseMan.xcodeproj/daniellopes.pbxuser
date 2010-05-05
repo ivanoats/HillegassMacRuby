@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	103A773B1190F5EB008DC99A /* AppController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 598}}";
+			sepNavSelRange = "{193, 0}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	103A773E1190F847008DC99A /* PreferenceController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 621}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{0, 516}";
+		};
+	};
+	1065D1DC117AA856004B3E20 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1065D1C5117AA68F004B3E20 /* RaiseMan.icns */;
+	};
+	10671AFB11711C2C0096CDC9 /* RaiseMan */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RaiseMan;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	10671B0411711C480096CDC9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	10671B0511711C480096CDC9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	10671B0611711CCC0096CDC9 /* Person.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 621}}";
+			sepNavSelRange = "{240, 0}";
+			sepNavVisRange = "{0, 582}";
+		};
+	};
+	10CBD39C11910A1200B2BB52 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A55BB891026466A0069E1DF /* MyDocument.rb */;
+		name = "MyDocument.rb: 26";
+		rLen = 42;
+		rLoc = 535;
+		rType = 0;
+		vrLen = 972;
+		vrLoc = 0;
+	};
+	10CBD39D11910A1200B2BB52 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 10671B0611711CCC0096CDC9 /* Person.rb */;
+		name = "Person.rb: 13";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 0;
+	};
+	10CBD3C111910DF200B2BB52 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 103A773B1190F5EB008DC99A /* AppController.rb */;
+		name = "AppController.rb: 9";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 0;
+	};
+	10CBD3C211910DF200B2BB52 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 103A773E1190F847008DC99A /* PreferenceController.rb */;
+		name = "PreferenceController.rb: 10";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 200;
+		vrLoc = 0;
+	};
+	10CBD3F111910EEE00B2BB52 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 103A773E1190F847008DC99A /* PreferenceController.rb */;
+		name = "PreferenceController.rb: 13";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	1A55BB891026466A0069E1DF /* MyDocument.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 1840}}";
+			sepNavSelRange = "{535, 42}";
+			sepNavVisRange = "{0, 972}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 10671AFB11711C2C0096CDC9 /* RaiseMan */;
+		activeTarget = 8D1107260486CEB800E47090 /* RaiseMan */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* RaiseMan */,
+		);
+		codeSenseManager = 10671B0511711C480096CDC9 /* Code sense */;
+		executables = (
+			10671AFB11711C2C0096CDC9 /* RaiseMan */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					885,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					845,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294716524;
+			PBXWorkspaceStateSaveDate = 294716524;
+		};
+		perUserProjectItems = {
+			1065D1DC117AA856004B3E20 /* PBXBookmark */ = 1065D1DC117AA856004B3E20 /* PBXBookmark */;
+			10CBD39C11910A1200B2BB52 /* PBXTextBookmark */ = 10CBD39C11910A1200B2BB52 /* PBXTextBookmark */;
+			10CBD39D11910A1200B2BB52 /* PBXTextBookmark */ = 10CBD39D11910A1200B2BB52 /* PBXTextBookmark */;
+			10CBD3C111910DF200B2BB52 /* PBXTextBookmark */ = 10CBD3C111910DF200B2BB52 /* PBXTextBookmark */;
+			10CBD3C211910DF200B2BB52 /* PBXTextBookmark */ = 10CBD3C211910DF200B2BB52 /* PBXTextBookmark */;
+			10CBD3F111910EEE00B2BB52 /* PBXTextBookmark */ = 10CBD3F111910EEE00B2BB52 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 10671B0411711C480096CDC9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* RaiseMan */ = {
+		activeExec = 0;
+		executables = (
+			10671AFB11711C2C0096CDC9 /* RaiseMan */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 4}, {750, 874}}";
+		};
+	};
+}

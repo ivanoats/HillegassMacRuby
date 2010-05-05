@@ -1,8 +1,8 @@
 //
 //  main.m
-//  RandomApp
+//  RaiseMan
 //
-//  Created by daniellopes on 09/04/10.
+//  Created by daniellopes on 10/04/10.
 //  Copyright area criacoes 2010. All rights reserved.
 //
 
@@ -10,5 +10,5 @@
 
 int main(int argc, char *argv[])
 {
-    return macruby_main("rb_main.rb", argc, argv);
+	return macruby_main("rb_main.rb", argc, argv);
 }

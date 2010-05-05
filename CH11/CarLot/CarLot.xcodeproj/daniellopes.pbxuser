@@ -4,6 +4,11 @@
 		isa = XDModelBookmark;
 		fRef = 8F0C5D880EADC379007FBAA3 /* MacRubyApp.xcdatamodel */;
 		fallbackIsa = PBXBookmark;
+	};
+	103A772F1190F5C2008DC99A /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 8F0C5D880EADC379007FBAA3 /* MacRubyApp.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
 		uiCtxt = {
 			UIContextForDetailArea = {
 				_indexOfSelectedPane = 0;
@@ -38,8 +43,8 @@
 					_percentageOfCollapsedView = 0;
 					isCollapsed = yes;
 					sizes = (
-						"{{0, 0}, {778, 220}}",
-						"{{783, 0}, {409, 220}}",
+						"{{0, 0}, {778, 218}}",
+						"{{783, 0}, {409, 218}}",
 					);
 				};
 				diagramSplitGeometry = {
@@ -58,8 +63,8 @@
 					_percentageOfCollapsedView = 0;
 					isCollapsed = yes;
 					sizes = (
-						"{{0, 0}, {256, 220}}",
-						"{{261, 0}, {517, 220}}",
+						"{{0, 0}, {256, 218}}",
+						"{{261, 0}, {517, 218}}",
 					);
 				};
 			};
@@ -163,16 +168,6 @@
 			);
 		};
 	};
-	10B1AAE5118E762F000A91B0 /* XDModelBookmark */ = {
-		isa = XDModelBookmark;
-		fRef = 8F0C5D880EADC379007FBAA3 /* MacRubyApp.xcdatamodel */;
-		fallbackIsa = PBXBookmark;
-	};
-	10B1AAEF118E76F8000A91B0 /* XDModelBookmark */ = {
-		isa = XDModelBookmark;
-		fRef = 8F0C5D880EADC379007FBAA3 /* MacRubyApp.xcdatamodel */;
-		fallbackIsa = PBXBookmark;
-	};
 	10DE6109118E656900245B49 /* CarLot */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -251,13 +246,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 294711229;
-			PBXWorkspaceStateSaveDate = 294711229;
+			PBXPerProjectTemplateStateSaveDate = 294712768;
+			PBXWorkspaceStateSaveDate = 294712768;
 		};
 		perUserProjectItems = {
 			103A77001190EFC4008DC99A /* XDModelBookmark */ = 103A77001190EFC4008DC99A /* XDModelBookmark */;
-			10B1AAE5118E762F000A91B0 = 10B1AAE5118E762F000A91B0 /* XDModelBookmark */;
-			10B1AAEF118E76F8000A91B0 = 10B1AAEF118E76F8000A91B0 /* XDModelBookmark */;
+			103A772F1190F5C2008DC99A /* XDModelBookmark */ = 103A772F1190F5C2008DC99A /* XDModelBookmark */;
 		};
 		sourceControlManager = 10DE611B118E656F00245B49 /* Source Control */;
 		userBuildSettings = {
@@ -305,8 +299,8 @@
 						_percentageOfCollapsedView = 0;
 						isCollapsed = yes;
 						sizes = (
-							"{{0, 0}, {778, 220}}",
-							"{{783, 0}, {409, 220}}",
+							"{{0, 0}, {778, 218}}",
+							"{{783, 0}, {409, 218}}",
 						);
 					};
 					diagramSplitGeometry = {
@@ -325,8 +319,8 @@
 						_percentageOfCollapsedView = 0;
 						isCollapsed = yes;
 						sizes = (
-							"{{0, 0}, {256, 220}}",
-							"{{261, 0}, {517, 220}}",
+							"{{0, 0}, {256, 218}}",
+							"{{261, 0}, {517, 218}}",
 						);
 					};
 				};
