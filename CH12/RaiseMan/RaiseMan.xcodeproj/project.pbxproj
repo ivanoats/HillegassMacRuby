@@ -10,6 +10,7 @@
 		103A773C1190F5EB008DC99A /* AppController.rb in Resources */ = {isa = PBXBuildFile; fileRef = 103A773B1190F5EB008DC99A /* AppController.rb */; };
 		103A773F1190F847008DC99A /* PreferenceController.rb in Resources */ = {isa = PBXBuildFile; fileRef = 103A773E1190F847008DC99A /* PreferenceController.rb */; };
 		103A77521190FA5F008DC99A /* Preferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = 103A77511190FA5F008DC99A /* Preferences.xib */; };
+		1056051D119246B500094ADA /* About.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1056051C119246B500094ADA /* About.xib */; };
 		1065D1C6117AA68F004B3E20 /* RaiseMan.icns in Resources */ = {isa = PBXBuildFile; fileRef = 1065D1C5117AA68F004B3E20 /* RaiseMan.icns */; };
 		10671B0711711CCC0096CDC9 /* Person.rb in Resources */ = {isa = PBXBuildFile; fileRef = 10671B0611711CCC0096CDC9 /* Person.rb */; };
 		1A55BB88102646550069E1DF /* MyDocument.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1A55BB86102646550069E1DF /* MyDocument.nib */; };
@@ -27,6 +28,7 @@
 		103A773B1190F5EB008DC99A /* AppController.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = AppController.rb; sourceTree = "<group>"; };
 		103A773E1190F847008DC99A /* PreferenceController.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = PreferenceController.rb; sourceTree = "<group>"; };
 		103A77511190FA5F008DC99A /* Preferences.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Preferences.xib; sourceTree = "<group>"; };
+		1056051C119246B500094ADA /* About.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = About.xib; sourceTree = "<group>"; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		1065D1C5117AA68F004B3E20 /* RaiseMan.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = RaiseMan.icns; sourceTree = "<group>"; };
 		10671B0611711CCC0096CDC9 /* Person.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = Person.rb; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
 				1A55BB86102646550069E1DF /* MyDocument.nib */,
 				103A77511190FA5F008DC99A /* Preferences.xib */,
+				1056051C119246B500094ADA /* About.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				103A773C1190F5EB008DC99A /* AppController.rb in Resources */,
 				103A773F1190F847008DC99A /* PreferenceController.rb in Resources */,
 				103A77521190FA5F008DC99A /* Preferences.xib in Resources */,
+				1056051D119246B500094ADA /* About.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
