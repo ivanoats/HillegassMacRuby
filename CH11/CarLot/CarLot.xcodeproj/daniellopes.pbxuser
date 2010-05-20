@@ -1,11 +1,11 @@
 // !$*UTF8*$!
 {
-	103A77001190EFC4008DC99A /* XDModelBookmark */ = {
+	109660AD1192ED54005F1356 /* XDModelBookmark */ = {
 		isa = XDModelBookmark;
 		fRef = 8F0C5D880EADC379007FBAA3 /* MacRubyApp.xcdatamodel */;
 		fallbackIsa = PBXBookmark;
 	};
-	103A772F1190F5C2008DC99A /* XDModelBookmark */ = {
+	109660E21193093E005F1356 /* XDModelBookmark */ = {
 		isa = XDModelBookmark;
 		fRef = 8F0C5D880EADC379007FBAA3 /* MacRubyApp.xcdatamodel */;
 		fallbackIsa = PBXBookmark;
@@ -33,7 +33,7 @@
 				chosenTableWidths = (
 					103.000000,
 					22.000000,
-					106.080078,
+					105.080078,
 				);
 			};
 			UIContextForLayoutManager = {
@@ -63,8 +63,8 @@
 					_percentageOfCollapsedView = 0;
 					isCollapsed = yes;
 					sizes = (
-						"{{0, 0}, {256, 218}}",
-						"{{261, 0}, {517, 218}}",
+						"{{0, 0}, {255, 218}}",
+						"{{260, 0}, {516, 218}}",
 					);
 				};
 			};
@@ -153,7 +153,7 @@
 				chosenTableWidthsPT = (
 					128.000000,
 					108.110840,
-					254.570801,
+					253.570801,
 				);
 				chosenTableWidthsRT = (
 					128.000000,
@@ -246,12 +246,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 294712768;
-			PBXWorkspaceStateSaveDate = 294712768;
+			PBXPerProjectTemplateStateSaveDate = 294845703;
+			PBXWorkspaceStateSaveDate = 294845703;
 		};
 		perUserProjectItems = {
-			103A77001190EFC4008DC99A /* XDModelBookmark */ = 103A77001190EFC4008DC99A /* XDModelBookmark */;
-			103A772F1190F5C2008DC99A /* XDModelBookmark */ = 103A772F1190F5C2008DC99A /* XDModelBookmark */;
+			109660AD1192ED54005F1356 /* XDModelBookmark */ = 109660AD1192ED54005F1356 /* XDModelBookmark */;
+			109660E21193093E005F1356 /* XDModelBookmark */ = 109660E21193093E005F1356 /* XDModelBookmark */;
 		};
 		sourceControlManager = 10DE611B118E656F00245B49 /* Source Control */;
 		userBuildSettings = {
@@ -289,7 +289,7 @@
 					chosenTableWidths = (
 						103.000000,
 						22.000000,
-						106.080078,
+						105.080078,
 					);
 				};
 				UIContextForLayoutManager = {
@@ -319,8 +319,8 @@
 						_percentageOfCollapsedView = 0;
 						isCollapsed = yes;
 						sizes = (
-							"{{0, 0}, {256, 218}}",
-							"{{261, 0}, {517, 218}}",
+							"{{0, 0}, {255, 218}}",
+							"{{260, 0}, {516, 218}}",
 						);
 					};
 				};
@@ -409,7 +409,7 @@
 					chosenTableWidthsPT = (
 						128.000000,
 						108.110840,
-						254.570801,
+						253.570801,
 					);
 					chosenTableWidthsRT = (
 						128.000000,
