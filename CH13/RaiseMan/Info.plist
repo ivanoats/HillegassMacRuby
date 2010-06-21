@@ -12,9 +12,13 @@
 				<string>rsmn</string>
 			</array>
 			<key>CFBundleTypeIconFile</key>
-			<string>RaiseMan</string>
+			<string>BBall</string>
 			<key>CFBundleTypeName</key>
 			<string>RaiseMan Doc</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>????</string>
+			</array>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>NSDocumentClass</key>
@@ -24,7 +28,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFile</key>
-	<string>RaiseMan</string>
+	<string>BBall</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.bignerdranch.RaiseMan</string>
 	<key>CFBundleInfoDictionaryVersion</key>

@@ -2,13 +2,13 @@
 //  main.m
 //  RaiseMan
 //
-//  Created by daniellopes on 10/04/10.
-//  Copyright area criacoes 2010. All rights reserved.
+//  Created by Aaron Hillegass on 9/24/07.
+//  Copyright __MyCompanyName__ 2007 . All rights reserved.
 //
 
-#import <MacRuby/MacRuby.h>
+#import <Cocoa/Cocoa.h>
 
 int main(int argc, char *argv[])
 {
-	return macruby_main("rb_main.rb", argc, argv);
+    return NSApplicationMain(argc, (const char **) argv);
 }

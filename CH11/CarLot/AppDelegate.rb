@@ -16,20 +16,14 @@ class AppDelegate
   def applicationSupportFolder
     paths = NSSearchPathForDirectoriesInDomains(NSApplicationSupportDirectory, NSUserDomainMask, true)
     basePath = (paths.count > 0) ? paths[0] : NSTemporaryDirectory()
-    return basePath.stringByAppendingPathComponent("CarLot")
+    basePath.stringByAppendingPathComponent("CarLot")
   end
 
   # Creates and returns the managed object model for the application 
   # by merging all of the models found in the application bundle.
   def managedObjectModel
-    if @managedObjectModel
-      return @managedObjectModel
-    end
-    
-    @managedObjectModel = NSManagedObjectModel.mergedModelFromBundles(nil)
-    return @managedObjectModel
+    @managedObjectModel ||= NSManagedObjectModel.mergedModelFromBundles(nil)
   end
-
 
   # Returns the persistent store coordinator for the application.  This 
   # implementation will create and return a coordinator, having added the 
